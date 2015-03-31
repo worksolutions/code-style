@@ -7,8 +7,8 @@
 	```javascript
 	"repositories": [
 		{
-			"type": "vcs",
-	    		"url":  "https://github.com/worksolutions/code-style.git"
+            "type": "vcs",
+            "url":  "https://github.com/worksolutions/code-style.git"
 		}
 	]
 	```
