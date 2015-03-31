@@ -8,7 +8,7 @@
 	"repositories": [
 		{
 			"type": "vcs",
-	    "url":  "https://github.com/worksolutions/code-style.git"
+	    		"url":  "https://github.com/worksolutions/code-style.git"
 		}
 	]
 	```
