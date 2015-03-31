@@ -21,4 +21,6 @@ $cli = new PHP_CodeSniffer_CLI();
 
 error_reporting(E_ALL ^ (E_NOTICE | E_WARNING));
 
+$_SERVER['argv'][] = '--standard=' . __DIR__ . '/../src/WS';
+
 $cli->runphpcs();
