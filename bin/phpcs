@@ -15,7 +15,7 @@
  * @link      http://pear.php.net/package/PHP_CodeSniffer
  */
 
-require __DIR__ . '/../../../../vendor/autoload.php';
+require __DIR__ . '/../../../autoload.php';
 
 $cli = new PHP_CodeSniffer_CLI();
 
