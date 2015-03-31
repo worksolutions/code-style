@@ -16,7 +16,7 @@
 2. Выполняем комманду:
 
 	```sh
-	composer require "worksolutions/code-style=*"
+	composer require "worksolutions/code-style=~1"
 	```
 
 3. В настройках PhpStorm (Languages & Frameworks > PHP > Code Sniffer) устанавливаем путь к файлу `{директория_проекта}/vendors/bin/phpcs`
