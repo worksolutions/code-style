@@ -1,0 +1,9 @@
+{
+  "name": "worksolutions/code-style",
+  "require": {
+    "squizlabs/php_codesniffer": "*"
+  },
+  "autoload": {
+    "WS\\CodeStyle\\": "src"
+  }
+}
