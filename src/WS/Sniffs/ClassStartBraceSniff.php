@@ -3,7 +3,7 @@
  * @author Maxim Sokolovsky <sokolovsky@worksolutions.ru>
  */
 
-namespace WS\CodeStyle\Sniffs;
+namespace WS\Sniffs;
 
 use PHP_CodeSniffer_File;
 
