@@ -7,7 +7,6 @@
     "WS\\CodeStyle\\": "src"
   },
   "bin": [
-    "bin/phpcs",
     "bin/phpwscs"
   ]
 }
