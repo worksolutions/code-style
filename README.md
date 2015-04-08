@@ -20,6 +20,6 @@
 	```
 
 3. В настройках PhpStorm (Languages & Frameworks > PHP > Code Sniffer) устанавливаем путь к файлу 
-`{директория_проекта}/vendor/worksolutions/code-style/bin/phpcs`
+`{директория_проекта}/vendor/bin/phpwscs`
 
 4. Включение инспектора кода в настройках PhpStorm (Editor > Inspections > PHP) галочкой  `PHP Code Sniffer validation`
